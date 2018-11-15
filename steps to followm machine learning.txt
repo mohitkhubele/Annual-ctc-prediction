@@ -1,0 +1,20 @@
+1.understand the problem statement------{regression/classification,supervised/unsupervised,time series,error metric}
+
+2.get insight from data
+
+3.data pre processing steps------{delete the duplicate value,check for missing values,convert the varibales into appropriate types
+                                 ,binning,feature selection/adding,handle missing values,standardise(scaling)
+                                 ,class inbalance(package rose and smote),dividing train and test}
+
+
+4.exploring analysis--------{visualization(plot btw dependent varibale and independendt variable)}
+
+
+5.model building-----{build a model which have high accuracy}
+
+
+
+6.predictions---------{predict on train data/predict on test data} make a table
+
+
+8.model performance
